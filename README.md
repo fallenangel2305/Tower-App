@@ -9,7 +9,6 @@
 Tower is a Ground Control Station (GCS) Android app built atop [DroneKit-Android](https://github.com/dronekit/dronekit-android), for UAVs
 running Ardupilot software.
 
-[![Google Play Store](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.droidplanner.android)
 
 ### Usage Guide
 
